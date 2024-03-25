@@ -2,7 +2,7 @@ Hello People of the internet!
 
 To use this program, simply extract everything from this zipped file, and run Internet.bat
 
-Internet.bat is on a consistent loop. So ever 45 seconds it will run its cleaning program, to ensure cache and trash files 
+Internet.bat is on a consistent loop. So every 45 seconds it will run its cleaning program, to ensure cache and trash files 
 (normally left by your computer on regular use of anything) are deleted, so that your computer can run smoothly.
 
 THIS IS NOT A SECURITY PROGRAM, AND RUNS ENTIRELY OFFLINE!!
