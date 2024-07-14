@@ -9,7 +9,7 @@ THIS IS NOT A SECURITY PROGRAM, AND RUNS ENTIRELY OFFLINE!!
 
 Meaning, no copying, no tracing, no nothing.
 
-Please ensure the the folder EMPTYSTANDBYLIST and Internet.bat are in the same folder.
+Please ensure the the file EMPTYSTANDBYLIST and Internet.bat are in the same folder.
 
 You are free to edit this program in anyway you wish, I am however not responsible if you edit the file and something breaks on your device.
 
